@@ -81,7 +81,7 @@ static const wchar_t* kTargets[] = {
     L"FiveM_b3095_GTAProcess.exe", L"FiveM_b3179_GTAProcess.exe",
     L"FiveM_b3258_GTAProcess.exe", L"FiveM_b3323_GTAProcess.exe",
     L"FiveM_b3407_GTAProcess.exe", L"FiveM_b3411_GTAProcess.exe",
-    L"FiveM_b3751_GTAProcess.exe",
+    L"FiveM_b3751_GTAProcess.exe", L"FiveM_b3889_GTAProcess.exe",
 };
 
 static HANDLE OpenTarget() {
